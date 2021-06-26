@@ -38,6 +38,8 @@ MERN uses Webpack for bundling modules. There are four types of Webpack configs 
 
 The Webpack configuration is minimal and beginner-friendly. You can customise and add more features to it for production build.
 
+Testiing Circle CI
+
 ### Server
 
 MERN uses express web framework. Our app sits in server.js where we check for NODE_ENV.
